@@ -14,17 +14,17 @@ export const RemotionRoot: React.FC = () => {
 				schema={AudioGramSchema}
 				defaultProps={{
 					// Audio settings
-					audioOffsetInSeconds: 6.9,
+					audioOffsetInSeconds: 0,
 
 					// Title settings
-					audioFileName: staticFile('audio.mp3'),
-					coverImgFileName: staticFile('cover.jpg'),
+					audioFileName: staticFile('twitter_video.mp3'),
+					coverImgFileName: staticFile('het_dagli.jpg'),
 					titleText:
-						'#234 – Money, Kids, and Choosing Your Market with Justin Jackson of Transistor.fm',
+						'Het Some Random Podcast Episode 11',
 					titleColor: 'rgba(186, 186, 186, 0.93)',
 
 					// Subtitles settings
-					subtitlesFileName: staticFile('subtitles.srt'),
+					subtitlesFileName: staticFile('subtitles_2.srt'),
 					onlyDisplayCurrentSentence: true,
 					subtitlesTextColor: 'rgba(255, 255, 255, 0.93)',
 					subtitlesLinePerPage: 4,
@@ -37,7 +37,7 @@ export const RemotionRoot: React.FC = () => {
 					waveLinesToDisplay: 29,
 					waveNumberOfSamples: '256', // This is string for Remotion controls and will be converted to a number
 					mirrorWave: true,
-					durationInSeconds: 29.5,
+					durationInSeconds: 445,
 				}}
 				// Determine the length of the video based on the duration of the audio file
 				calculateMetadata={({ props }) => {

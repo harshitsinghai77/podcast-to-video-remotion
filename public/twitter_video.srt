@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:06,680
+You realize okay, I need to stop working this desk job. I hate yeah, I don't want to go back to college
+
+2
+00:00:06,680 --> 00:00:11,360
+I want to become a machine learning engineer for Amazon for Twitch in particular. Yeah
+
+3
+00:00:11,840 --> 00:00:14,240
+What would you do start over right now?
+
+4
+00:00:14,240 --> 00:00:16,240
+Okay, so look I
+
+5
+00:00:16,400 --> 00:00:22,000
+Actually really like that question because it always makes me think of like all the stuff that I did right all the things I did wrong
+
+6
+00:00:22,880 --> 00:00:25,360
+One thing I do like about that question is like you know
+
+7
+00:00:25,360 --> 00:00:32,640
+I like how you ask like Twitch and Amazon because a lot of people I think set them so it was all for potential failure
+
+8
+00:00:32,640 --> 00:00:38,160
+When they don't know what company exactly they want to go for because there is a clear distinction between those like big
+
+9
+00:00:38,160 --> 00:00:44,000
+FANG tech companies so you know for those big FANG tech companies if I was pressed on time
+
+10
+00:00:44,880 --> 00:00:47,400
+The only thing I would do is lead code and
+
+11
+00:00:48,000 --> 00:00:54,720
+That's an answer that a lot of people don't like but all I would do as the juniors going into snow experience
+
+12
+00:00:54,720 --> 00:01:01,680
+It just lead code till my eyes and fingers don't work. Can you go deep into that? Do you mean lead code data structures?
+
+13
+00:01:01,680 --> 00:01:05,280
+Right right design you name it algorithms
+
+14
+00:01:06,480 --> 00:01:12,720
+reversal link tree you mean that yep and not in particular how to build an actual model yep
+
+15
+00:01:12,960 --> 00:01:20,400
+I would a hundred percent go fully into lead code to gain that junior position in those big Fang tech companies
+
+16
+00:01:20,800 --> 00:01:22,800
+the expectation for juniors is
+
+17
+00:01:22,800 --> 00:01:27,840
+Very close to zero very close is like there's no expectations out
+
+18
+00:01:29,600 --> 00:01:34,320
+There is no and like I work there. I've interviewed a bunch of juniors. I've gone through the like the nuance
+
+19
+00:01:34,320 --> 00:01:35,440
+I've done I've done it all you know
+
+20
+00:01:35,440 --> 00:01:38,800
+I've seen it but on both sides of it been a junior at a big tech company
+
+21
+00:01:39,120 --> 00:01:43,280
+I know how it works and you know the reason why there's no expectations is
+
+22
+00:01:43,840 --> 00:01:49,600
+To set yourself up for success while also protecting the business side expectations, but
+
+23
+00:01:49,600 --> 00:01:59,760
+Yeah, I would just grind lead code. I would just grind grind grind lead code while you know on the side reading and understanding things about machine learning
+
+24
+00:02:00,240 --> 00:02:05,360
+I would lead code first machine learning seconds. Yes like this like would you say
+
+25
+00:02:06,160 --> 00:02:10,320
+Everyone mean hopefully you I mean you should work full-time job. Hopefully if you could fortunately
+
+26
+00:02:10,640 --> 00:02:13,920
+After you 9 to 5 if not during you 9 to 5 but after you from
+
+27
+00:02:13,920 --> 00:02:21,200
+6 to 9 lead code then Saturday Sunday machine learning. I would even put like maybe like I would do
+
+28
+00:02:21,600 --> 00:02:28,800
+6 to 10 lead code and Saturday like when you wake up. Let's say you wake up brush your teeth. I would say 10 to 3 p.m
+
+29
+00:02:29,440 --> 00:02:34,640
+Lead code and then Sunday you're late reading 2 to 4 to the 5 machine learning. It's like
+
+30
+00:02:35,680 --> 00:02:42,720
+If you can get into a Fang company as a junior for an ML team they will teach you everything you need to know
+
+31
+00:02:42,720 --> 00:02:47,520
+Wow, yeah, they'll build you from the ground up and that is like truly how it works
+
+32
+00:02:47,520 --> 00:02:55,680
+Like if you the best case scenario best case is if you're already somehow in school for some like ML programmer
+
+33
+00:02:55,680 --> 00:03:02,800
+Emblems or tips or something like that and you have the academic courses on your resume or you have the academic knowledge
+
+34
+00:03:03,360 --> 00:03:08,240
+To talk about a conversation, but when it comes to literally the technical
+
+35
+00:03:08,240 --> 00:03:13,040
+Challenges or technical you know requirements only lead code
+
+36
+00:03:14,320 --> 00:03:16,320
+What programming language though?
+
+37
+00:03:16,320 --> 00:03:22,240
+Python Python Python yeah, not 100% 100% not JavaScript
+
+38
+00:03:22,640 --> 00:03:25,920
+No, no, no, no, no, if you want to be an ML
+
+39
+00:03:26,800 --> 00:03:30,400
+In the ML space first of all, I think leaco is like the best language to lead code
+
+40
+00:03:30,960 --> 00:03:35,760
+I that's just my opinion. I think it's just like super easy and it's like you know very you know easy to understand
+
+41
+00:03:35,760 --> 00:03:43,440
+But once you get in through your lead code skills and through through your lead code grind all of the ML stuff is basically written in Python
+
+42
+00:03:44,000 --> 00:03:48,800
+A lot of go for like the microservices the lamb does deployments and all that stuff
+
+43
+00:03:49,920 --> 00:03:54,640
+However, I just want to double down one thing if you're not going for the big Fang company, right?
+
+44
+00:03:54,640 --> 00:03:58,960
+Let's say you don't want to go work for the twitch or the amazon to google and you want to work for like you know
+
+45
+00:03:59,120 --> 00:04:04,560
+Maybe a startup or a different company whatever then my answer completely changes then it's
+
+46
+00:04:04,560 --> 00:04:13,440
+Grind machine learning and become a subject matter expert like become that bad ass in the field like depth
+
+47
+00:04:13,760 --> 00:04:17,200
+Just know everything know everything model every way to you know
+
+48
+00:04:17,440 --> 00:04:21,280
+Clean the data everything become that master so when you join a company you can
+
+49
+00:04:21,840 --> 00:04:26,800
+Just floor them with how much you know how about this the four four five main things, right?
+
+50
+00:04:26,880 --> 00:04:29,120
+If you had to really point out if you're trying to go for startup
+
+51
+00:04:29,120 --> 00:04:33,840
+Come come first um, you know fang for startup. Yeah, we need to get what you need to learn
+
+52
+00:04:34,320 --> 00:04:39,360
+Yeah for a startup world. I would definitely say the most important things are one you have to
+
+53
+00:04:40,000 --> 00:04:42,240
+Be practical you're that's the most thing it's to be practical
+
+54
+00:04:42,240 --> 00:04:48,480
+So you can as much as like the thing I always warn people who like get into ML is don't go too hard into academia
+
+55
+00:04:48,800 --> 00:04:52,560
+Like academia is very important and like you have to have you have to know it
+
+56
+00:04:52,800 --> 00:04:57,280
+But I think be practical you know how can you actually use it? Can you actually program something?
+
+57
+00:04:57,280 --> 00:05:00,560
+Do you know how to you know use tools that career databases?
+
+58
+00:05:00,560 --> 00:05:03,760
+So to be very you know, let's let's actually give you that list one
+
+59
+00:05:04,160 --> 00:05:05,920
+Can you career databases?
+
+60
+00:05:05,920 --> 00:05:09,280
+Can you pull data from databases and what is what even if for that sequel?
+
+61
+00:05:09,600 --> 00:05:13,280
+So do you know sequel are you good with sequel right that's number one number two?
+
+62
+00:05:13,680 --> 00:05:18,560
+Can you build a pipeline that does a few processes with sequel?
+
+63
+00:05:18,640 --> 00:05:23,760
+So I say you grab a bunch of data and you have to do operation one operation two operation three
+
+64
+00:05:23,760 --> 00:05:27,040
+Can you do that doubt the second piece of advice I'll give someone
+
+65
+00:05:27,680 --> 00:05:29,920
+Three, can you benchmark your model?
+
+66
+00:05:30,320 --> 00:05:35,520
+How do we know your model is good and how do we know if I just you know put a bunch of if else statements
+
+67
+00:05:35,840 --> 00:05:41,680
+It's better than that as dumb as that sounds you'd be surprised at how many people skip that third step or
+
+68
+00:05:42,000 --> 00:05:47,040
+Don't understand how important that step is for business. They want to know cool your machine learning engine
+
+69
+00:05:47,040 --> 00:05:52,080
+That sounds awesome. You've set a bunch of key words and you've you've already impressed with your knowledge
+
+70
+00:05:52,080 --> 00:05:57,360
+How do we know your model is better than me putting a bunch of stuff myself a heuristic rule, right?
+
+71
+00:05:57,680 --> 00:06:01,760
+So make sure you can sell your model and and do it with with the proper metrics
+
+72
+00:06:02,480 --> 00:06:07,840
+For deploy your model. This is one that I know a lot of people never do
+
+73
+00:06:08,240 --> 00:06:14,960
+It's actually deploy it into production for example, Chris. Let's say you and I are building a website, right?
+
+74
+00:06:15,440 --> 00:06:19,120
+I build mine all on local host. That's exactly exact same thing. We're both using JavaScript
+
+75
+00:06:19,120 --> 00:06:23,680
+Let's say we both use React. I make my Chris my website so good. You're gonna be so jealous
+
+76
+00:06:24,080 --> 00:06:28,320
+And you're like, oh, yeah, let me see it. I'm like, uh, okay. How can you how do you want me to send you the files?
+
+77
+00:06:28,480 --> 00:06:29,680
+Docker like
+
+78
+00:06:29,920 --> 00:06:34,560
+Docker. Yeah, but you'd be like, what why can't you just deploy it? And if I say I don't know how to deploy it
+
+79
+00:06:34,560 --> 00:06:41,600
+You'd be like, oh man. That's uh, that's a bit of an eyebrow razor, right? So the deployment part is is also just
+
+80
+00:06:42,400 --> 00:06:44,160
+Extremely make it accessible
+
+81
+00:06:45,040 --> 00:06:48,240
+Make it accessible in showcase that you know the end-to-end process
+
+82
+00:06:48,240 --> 00:06:50,640
+Why is that so important though?
+
+83
+00:06:51,600 --> 00:06:55,840
+Because it showcases that not only do you know how to train them all locally
+
+84
+00:06:56,080 --> 00:07:00,720
+It shows you how you can actually use it in production use it in a system that's not your local computer
+
+85
+00:07:01,040 --> 00:07:03,520
+Because it's easy if I have a mall in my local computer
+
+86
+00:07:03,760 --> 00:07:07,280
+I could run a script that just says you know make it inference. It works in my machine
+
+87
+00:07:07,920 --> 00:07:10,880
+It works on my machine. It works on my machine. Why would it not work?
+
+88
+00:07:10,960 --> 00:07:14,240
+But then the question is and it's so different than like a website
+
+89
+00:07:14,240 --> 00:07:22,560
+You have to understand how to deploy a model into a service that can be used by other systems other services in your ecosystem
+

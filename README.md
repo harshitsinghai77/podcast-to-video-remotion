@@ -1,4 +1,4 @@
-# Remotion Audiogram Template
+# Audiogram Template
 
 This template is for creating "audiograms". In other words, video clips from podcast episodes, or any other audio. It's a popular way of sharing audio snippets on social media.
 
